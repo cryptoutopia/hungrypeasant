@@ -1,0 +1,64 @@
+{
+  "restaurants": [
+    {
+      "name": "KLASS bistro & restaurant",
+      "key": "klass",
+      "phone": "+421915174457"
+    },
+    {
+      "name": "Mali Bu",
+      "key": "malibu",
+      "phone": "+421911501514"
+    }
+  ],
+  "menus": {
+    "klass": [
+      {
+        "day": "monday",
+        "meal": "<p>Paradicsomleves - Paradajková polievka</p><p>A: Bundában sült csirkemell, kukoricás rizs, saláta - Kuracie prsia v cestíčku, ryža s kukuricou, šalát</p><p>B: Rántott gomba / karfiol felesben, hasábburgonya, tartárm - Vyprážané hríby/ karfiol, hranolky, tat.omáčka</p>"
+      },
+      {
+        "day": "tuesday",
+        "meal": "<p>Frankfurti leves virslivel - Frankfurtská polievka s párkom</p><p>A: Sajttal - sonkával töltött csirkemell, héjas burgonya, káp.saláta - Cordon bleu, peč.zemiaky, kap.šalát</p><p>B: Juhtúrós galuska, pírított szalonna - Bryndzové halušky, slanina</p>"
+      },
+      {
+        "day": "wednesday",
+        "meal": "<p>Csontleves - Mäsový vývar</p><p>A: XXL rántott sertésszelet, petrezselymes burgonya, káp.saláta - XXL vyprážaný bravčový rezeň, petržlenové zemaky, kap.šalát</p><p>B: Gombás - tejszínes csirkeragu, szlovák rizs - Kuracie soté na smotane, slovenská ryža</p>"
+      },
+      {
+        "day": "thursday",
+        "meal": "<p>Francia zöldségleves galuskával - Francúzska polievka, halušky</p><p>A: Sertésburger, hasábburgonya - Bravčový burger, hranolky</p><p>B: Szecsuáni csirke, rizs - Sečuánska kura, ryža</p>"
+      },
+      {
+        "day": "friday",
+        "meal": "<p>Marékleves - Hřstková polievka</p><p>A: Kentucky csirkefalatok, hullámos burgonya, bbq - Kentucky kuracie nugetky, peč.zemiaky, bbq</p><p>B: Csülkös pacalpörkölt, kenyér - Držkový perkelt, chlieb</p>"
+      }
+    ],
+    "malibu": [
+      {
+        "day": "monday",
+        "meal": "<p>0,331 Marékleves virslivel,kifli-Hrstková polievka s párkom,rožky</p><p>A: 120g Cigánypecsenye, amerikai burgonya-Cigánska pečienka,americké zemiaky</p><p>B: 300g Juhtúrós galuska szalonnával-Bryndzové halušky so slaninou</p>"
+      },
+      {
+        "day": "tuesday",
+        "meal": "<p>0,331 Karfiol krémleves,krutón-Karfiolová krémová polievka,krutóny</p><p>A: 120g Omlettal töltött sert.karaj,sült burgonya,csalamádé-Bravč.karé plnené s omeletou,opek.zemiaky,čalamáda</p><p>B: 120g Resztelt csirkemáj burgonyatócsniban, 1⁄2 rizs-Restovaná kur.pečeň v zem.placke, 1⁄2 ryža</p>"
+      },
+      {
+        "day": "wednesday",
+        "meal": "<p>0,331 Eröleves tésztával-Silný vývar s cestovinou</p><p>A: 120g Sült tarja,párolt káposzta,knédli-Pečená krkovička,dusená kapusta,knedla</p><p>B: 120g Parasztos csirkeszoté,rizs-Sedliacke kur.soté, ryža</p><p>C: 120g Rántott sajt,hasábburgonya,tartármártás-Vypr.syr,hranolky,t.o.</p>"
+      },
+      {
+        "day": "thursday",
+        "meal": "<p>0,331 Mészáros leves,kenyér-Mäsiarska polievka,chlieb</p><p>A: 120g Mogyoróbundás csirkecomb filé, burgonyatallér-Vykostené kur.stehno v arašídovom obale,zemiakové dukáty</p><p>B: 120g Bakonyi sert.ragu,könyöktészta,sav.uborka-Bravč.ragu Bakonyi,kolienky,kys.uhorky </p><p>C: 300g Gyümölcsös rizsfelfújt-Ryžový nákyp s ovocím</p>"
+      },
+      {
+        "day": "friday",
+        "meal": "<p>0,331 Cukorborsóleves reszeltkével-Hrásková polievka s mrvancami</p><p>A:120g Töltött csirkecomb,rizs,kompót-Plnené kur.stehno,ryža,kompót </p><p>B 400ml Babgulyás,kenyér-Fazulový guláš,chlieb</p>"
+      }
+    ]
+  },
+  "contacts": {
+    "klass": "+421915174457",
+    "malibu": "+421911501514"
+  }
+}

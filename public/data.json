@@ -1,0 +1,64 @@
+{
+    "restaurants": [
+      {
+        "name": "KLASS bistro & restaurant",
+        "key": "klass",
+        "phone": "+421915174457"
+      },
+      {
+        "name": "Mali Bu",
+        "key": "malibu",
+        "phone": "+421911501514"
+      }
+    ],
+    "menus": {
+      "klass": [
+        {
+          "day": "monday",
+          "meal": "<p>Gulyasleves, kenyer; Gulasova polievka, chlieb</p><p>A: Rantott camembert sajt, hasabburgonya, afonyamartas; Vyprazany camembert, hranolky, cucoriedkova omacka</p><p>B: Sajtos - tejszines kontosben sult csirkemell, rizs, befott; Kuracie prsia syrovo - smotanovej zupane, ryza, kompot</p>"
+        },
+        {
+          "day": "tuesday",
+          "meal": "<p>Nyari zoldsegleves; Letna polievka</p><p>A: BACONNEL toltott csiremell, hejas burgonya, kap. salata; Baconom plneny kuraci rezen, pec.zemiaky, kap.salat</p><p>B: Reszelt maj, tarhonya, uborka; Restovana pecienka, tarhona, uhorky kysle</p>"
+        },
+        {
+          "day": "wednesday",
+          "meal": "<p>Csontleves; Masovy vyvar</p><p>A: Szezammagos panirban sult kicsontozott csikecomb, borsos rizs, cekla; Kuracie stehno vykostene v sezamovom obale, hraskova ryza, cvikla</p><p>B: Sult sertestarja, knedli, parolt kaposzta; Pecena krkovicka, knedla, parena kapusta</p>"
+        },
+        {
+          "day": "thursday",
+          "meal": "<p>Fokhagymakremleves; Cesnakova kremova polievka</p><p>A: Csirkeburger, hasabburgonya; Kuraci burger, hranolky</p><p>B: Ciganypecsenye lyoni hagymaval, sult burgonya, savanyusag; Ciganska pecienka, lyoni cibula, pecene zemiaky, kysle</p>"
+        },
+        {
+          "day": "friday",
+          "meal": "<p>Tarkanyos raguleves; Estragonova ragu polievka</p><p>A: Sult hekk sult burgonya, savanyusag; Peceny hejk, pecene zemiaky, kysle</p><p>B: Chillis bab, kenyer; Chilli con carne, chlieb</p>"
+        }
+      ],
+      "malibu": [
+        {
+          "day": "monday",
+          "meal": "<p>0.33l Paradicsomleves sajtal; Paradajkova polevka so syrom</p><p>A: 120g Mexikoi gulyas, rizs, almapaprika; Mexicky gulas, ryza, jablckova paprika</p><p>B: 180g Rantott karfiol, hasabburgonya, tart.martas; vypr. karfiol, hranolky, t.o.</p>"
+        },
+        {
+          "day": "tuesday",
+          "meal": "<p>0.33 kelkaposzta leves virslivel, kenyer; kelova polievka s parkom chlieb</p><p>A: 240g tejfolos csirkeporkolt, nokedli, sav.uborka; kuracie stehno na smotane, halusky, kys.uhorky</p><p>B: 120g ovary sert.szelet, burgonya taller; bravc.rezen ovary, zemiakove dukaty</p>"
+        },
+        {
+          "day": "wednesday",
+          "meal": "<p>0.33 tyukhusleves daragaluskaval; Slepacia polievka s krupicovymi haluskami</p><p>A: 120g szegedi kaposzta, knedli; Szegedinska kapusta, knedla</p><p>B: 120g Baconba gongyolt sertesszuz, Demi glace martas, krokett; Bravc.panenka v bacon slanine, Demi glace, krokety</p><p>C: 120g rantott sajt, hasabburgonya, tartarmartas; vypr. syr, hranolky,t.o.</p>"
+        },
+        {
+          "day": "thursday",
+          "meal": "<p>0.33l jokai bableves, kenyer; fazulova polievka jokai, chlieb</p><p>A: 120g pikans majjal toltot sert.karaj, petr.burgonya, kap.salata; bravc.kare plnene pikantnout pecenou, petr. zemiaky</p><p>B: 300g sajtos-gombas penne teszta csirkecsikokkal; syrovo-hribove penne s kuracim masom</p><p>C: 300g aranygaluska vanilia kremmel; dukatove buchticky s vanilkovym kremom</p>"
+        },
+        {
+          "day": "friday",
+          "meal": "<p>0.33l tarkonyos zoldsegleves; estragonova zeleninova polievka</p><p>A: 120g parizsi csirkemell, rizs, cekla; Parizske kur.prsia, ryza, cvikla</p><p>B: 400ml csulokporkolt, kenyer; kolienkovy perkelt, chlieb</p>"
+        }
+      ]
+    },
+      "contacts": {
+      "klass": "+421915174457",
+      "malibu": "+421911501514"
+    }
+  }
